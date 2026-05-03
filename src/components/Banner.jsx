@@ -10,9 +10,9 @@ const Banner = () => {
           <h1 className="text-4xl md:text-6xl font-bold mb-4 max-w-2xl">
             Turn Ideas into Stunning AI Art
           </h1>
-          <p className="text-lg md:text-xl mb-6 max-w-xl text-gray-200">
+          {/* <p className="text-lg md:text-xl mb-6 max-w-xl text-gray-200">
             Generate high-quality images from simple text prompts.
-          </p>
+          </p> */}
 
           <div className="flex gap-4">
             <Link href="#">
