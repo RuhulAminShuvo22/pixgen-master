@@ -99,7 +99,7 @@ export default function SignInPage() {
 
       <p className="text-center">Or</p>
 
-      {/* <Button onClick={handlGoogleSignIn} variant="outline" className={'w-full'}><GrGoogle/> Sign In With Google</Button> */}
+      <Button onClick={handlGoogleSignIn} variant="outline" className={'w-full'}><GrGoogle/> Sign In With Google</Button>
     </Card>
   );
 }
