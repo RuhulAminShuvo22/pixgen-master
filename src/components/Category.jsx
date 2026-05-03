@@ -12,9 +12,9 @@ const Category = async () => {
           href={`?category=${category.name.toLowerCase()}`}
         >
           {" "}
-          {/* <Button variant="outline" size="sm">
+          <Button variant="outline" size="sm">
             {category.name}
-          </Button> */}
+          </Button>
         </Link>
       ))}
     </div>
