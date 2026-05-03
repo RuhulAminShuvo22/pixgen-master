@@ -35,10 +35,10 @@ const Footer = () => {
               </h2>
             </div>
 
-            {/* <p className="text-sm leading-relaxed text-gray-600 dark:text-gray-400 max-w-xs">
+            <p className="text-sm leading-relaxed text-gray-600 dark:text-gray-400 max-w-xs">
               Create production-ready AI visuals in seconds. Built for speed,
               scale, and creativity.
-            </p> */}
+            </p>
           </div>
 
           {/* Product */}
