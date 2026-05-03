@@ -2,7 +2,7 @@ import { Button } from "@heroui/react";
 import Link from "next/link";
 
 const Category = async () => {
-  const res = await fetch("https://pixgen-eta.vercel.app/category.json");
+  const res = await fetch("http://localhost:3000/data.json");
   const categories = await res.json();
   return (
     <div className="mb-5 space-x-3">
@@ -12,9 +12,9 @@ const Category = async () => {
           href={`?category=${category.name.toLowerCase()}`}
         >
           {" "}
-          <Button variant="outline" size="sm">
+          {/* <Button variant="outline" size="sm">
             {category.name}
-          </Button>
+          </Button> */}
         </Link>
       ))}
     </div>
