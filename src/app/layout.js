@@ -22,9 +22,9 @@ export default function RootLayout({ children }) {
       className={`${OutfitFont.className}  h-full antialiased`}
     >
       <body>
-        <Navbar/>
+        {/* <Navbar/>
         <main className="max-w-7xl mx-auto">{children} </main>
-        <Footer/>
+        <Footer/> */}
 
       </body>
     </html>
