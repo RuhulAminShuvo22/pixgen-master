@@ -102,7 +102,7 @@ export default function SignUpPage() {
           <FieldError />
         </TextField>
 
-        {/* <div className="flex gap-2">
+        <div className="flex gap-2">
           <Button type="submit">
             <Check />
             Submit
@@ -110,7 +110,7 @@ export default function SignUpPage() {
           <Button type="reset" variant="secondary">
             Reset
           </Button>
-        </div> */}
+        </div>
       </Form>
 
 
