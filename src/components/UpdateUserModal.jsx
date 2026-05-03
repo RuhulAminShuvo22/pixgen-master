@@ -19,9 +19,9 @@ export function UpdateUserModal() {
   };
   return (
     <Modal>
-      {/* <Button variant="secondary">
+      <Button variant="secondary">
         <BiEdit /> Update Profile
-      </Button> */}
+      </Button>
       <Modal.Backdrop>
         <Modal.Container placement="auto">
           <Modal.Dialog className="sm:max-w-md">
