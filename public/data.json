@@ -182,18 +182,6 @@
     "downloads": 29,
     "createdAt": "2026-04-26T07:15:00Z",
     "tags": ["abstract", "geometric", "gold", "minimal"]
-  },
-  {
-    "id": 15,
-    "title": "Post-Apocalyptic Wasteland",
-    "imageUrl": "https://i.pinimg.com/736x/be/ec/a6/beeca6bd372094e5c360b1aefaf6f157.jpg",
-    "prompt": "A lone survivor with a gas mask walking through a desert wasteland, ruined skyscrapers, orange haze",
-    "category": "Sci-Fi",
-    "model": "DALL·E 3",
-    "resolution": "1280x720",
-    "likes": 305,
-    "downloads": 96,
-    "createdAt": "2026-04-26T09:45:00Z",
-    "tags": ["apocalyptic", "wasteland", "survivor", "scifi"]
   }
+  
 ]
